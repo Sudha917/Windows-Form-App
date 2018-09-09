@@ -1,0 +1,11 @@
+G:\.net traing\Assignments\Day04\WindowsFormsApP\WindowsFormsApP\bin\Debug\WindowsFormsApP.exe.config
+G:\.net traing\Assignments\Day04\WindowsFormsApP\WindowsFormsApP\bin\Debug\WindowsFormsApP.exe
+G:\.net traing\Assignments\Day04\WindowsFormsApP\WindowsFormsApP\bin\Debug\WindowsFormsApP.pdb
+G:\.net traing\Assignments\Day04\WindowsFormsApP\WindowsFormsApP\obj\Debug\WindowsFormsApP.LoginPage.resources
+G:\.net traing\Assignments\Day04\WindowsFormsApP\WindowsFormsApP\obj\Debug\WindowsFormsApP.Main.resources
+G:\.net traing\Assignments\Day04\WindowsFormsApP\WindowsFormsApP\obj\Debug\WindowsFormsApP.Properties.Resources.resources
+G:\.net traing\Assignments\Day04\WindowsFormsApP\WindowsFormsApP\obj\Debug\WindowsFormsApP.csproj.GenerateResource.cache
+G:\.net traing\Assignments\Day04\WindowsFormsApP\WindowsFormsApP\obj\Debug\WindowsFormsApP.csproj.CoreCompileInputs.cache
+G:\.net traing\Assignments\Day04\WindowsFormsApP\WindowsFormsApP\obj\Debug\WindowsFormsApP.exe
+G:\.net traing\Assignments\Day04\WindowsFormsApP\WindowsFormsApP\obj\Debug\WindowsFormsApP.pdb
+G:\.net traing\Assignments\Day04\WindowsFormsApP\WindowsFormsApP\obj\Debug\WindowsFormsApP.csprojAssemblyReference.cache
